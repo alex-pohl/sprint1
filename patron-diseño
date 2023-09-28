@@ -1,0 +1,2 @@
+Tal y como esta planteada mete toda la funcionalidad en una sola función, lo cual parece poco óptimo para realizar modificaciones a futuro.
+Creo que es conveniente que se continúe revisando y encontrar un patrón más adecuado que acepte modificaciones.
